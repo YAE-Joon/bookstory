@@ -1,9 +1,9 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:5000/elice
-    username: elice
-    password: Elice2team!@
+    url:
+    username:
+    password:
 
   jpa:
     hibernate:
@@ -14,10 +14,10 @@ spring:
         format_sql: false
   
   ssl:
-    key-store: classpath:keystore.p12
-    key-store-password: Elice2team!@
-    key-store-type: PKCS12
-    key-alias: https_secret
+    key-store:
+    key-store-password:
+    key-store-type:
+    key-alias:
 
   jwt:
     secret: BookStory1234BookStory1234BookStory1234BookStory1234BookStory1234BookStory1234BookStory1234BookStory1234
