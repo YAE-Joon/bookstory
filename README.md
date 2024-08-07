@@ -62,7 +62,7 @@ localstorage에서 장바구니 정보 조회 상품 수량 수정 (localstorage
 
 ### ERD
 ***
-![image](https://github.com/user-attachments/assets/6ef8a550-0e9a-453e-be2e-687900972ecf)
+<img width="829" alt="스크린샷 2024-08-07 오후 4 07 51" src="https://github.com/user-attachments/assets/8d403254-92d3-4441-8a70-8c57c405e330">
 
 ### APIS
 ***
